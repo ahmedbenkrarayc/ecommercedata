@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "T-Shirts",
+        "category_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Jackets",
+        "category_id": 1
+    },
+    {
+        "id": 3,
+        "name": "Jeans",
+        "category_id": 1
+    },
+    {
+        "id": 4,
+        "name": "Dresses",
+        "category_id": 2
+    },
+    {
+        "id": 5,
+        "name": "Tops",
+        "category_id": 2
+    },
+    {
+        "id": 6,
+        "name": "Skirts",
+        "category_id": 2
+    },
+    {
+        "id": 7,
+        "name": "T-Shirts",
+        "category_id": 3
+    },
+    {
+        "id": 8,
+        "name": "Shorts",
+        "category_id": 3
+    },
+    {
+        "id": 9,
+        "name": "Sweaters",
+        "category_id": 3
+    }
+]

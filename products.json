@@ -1,0 +1,183 @@
+[
+    {
+      "id": 101,
+      "title": "Men's Basic Cotton T-Shirt",
+      "description": "A comfortable and stylish men's t-shirt made of 100% cotton. Perfect for casual wear.",
+      "rate": 4.5,
+      "creation_date": "2023-08-15",
+      "subcategory_id": 1,
+      "variants": [
+        {
+          "color": "Black",
+          "sizes": ["S", "M", "L", "XL"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        },
+        {
+          "color": "White",
+          "sizes": ["S", "M", "L", "XL"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Men's Waterproof Jacket",
+      "description": "A durable men's jacket that offers waterproof protection. Ideal for rainy days and outdoor activities.",
+      "rate": 4.8,
+      "creation_date": "2023-09-01",
+      "subcategory_id": 2,
+      "variants": [
+        {
+          "color": "Navy Blue",
+          "sizes": ["M", "L", "XL"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        },
+        {
+          "color": "Olive Green",
+          "sizes": ["M", "L", "XL"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Slim Fit Denim Jeans",
+      "description": "High-quality denim jeans with a slim fit. Features a five-pocket design and a slightly distressed finish.",
+      "rate": 4.2,
+      "creation_date": "2023-07-20",
+      "subcategory_id": 3,
+      "variants": [
+        {
+          "color": "Dark Blue",
+          "sizes": ["30", "32", "34", "36"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        },
+        {
+          "color": "Light Blue",
+          "sizes": ["30", "32", "34", "36"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Women's Floral Midi Dress",
+      "description": "A beautiful floral midi dress perfect for summer events and casual outings. Features a flattering A-line cut.",
+      "rate": 4.7,
+      "creation_date": "2023-06-15",
+      "subcategory_id": 4,
+      "variants": [
+        {
+          "color": "Red Floral",
+          "sizes": ["S", "M", "L"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        },
+        {
+          "color": "Blue Floral",
+          "sizes": ["S", "M", "L"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Women's Casual Top",
+      "description": "A soft and breathable casual top. Perfect for everyday wear, featuring a relaxed fit and short sleeves.",
+      "rate": 4.3,
+      "creation_date": "2023-07-30",
+      "subcategory_id": 5,
+      "variants": [
+        {
+          "color": "Pink",
+          "sizes": ["S", "M", "L", "XL"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        },
+        {
+          "color": "White",
+          "sizes": ["S", "M", "L", "XL"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "title": "Women's A-Line Skirt",
+      "description": "A flattering A-line skirt perfect for formal or casual events. Made with high-quality cotton fabric for comfort and style.",
+      "rate": 4.6,
+      "creation_date": "2023-09-05",
+      "subcategory_id": 6,
+      "variants": [
+        {
+          "color": "Black",
+          "sizes": ["S", "M", "L", "XL"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        },
+        {
+          "color": "Navy",
+          "sizes": ["S", "M", "L", "XL"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Kids' Graphic T-Shirt",
+      "description": "Fun and colorful graphic t-shirt for kids. Made with soft cotton for maximum comfort, featuring a playful design.",
+      "rate": 4.4,
+      "creation_date": "2023-10-01",
+      "subcategory_id": 7,
+      "variants": [
+        {
+          "color": "Blue",
+          "sizes": ["S", "M", "L"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        },
+        {
+          "color": "Yellow",
+          "sizes": ["S", "M", "L"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "title": "Kids' Casual Shorts",
+      "description": "Comfortable casual shorts for kids. Ideal for outdoor activities, made with breathable fabric for all-day wear.",
+      "rate": 4.3,
+      "creation_date": "2023-08-10",
+      "subcategory_id": 8,
+      "variants": [
+        {
+          "color": "Red",
+          "sizes": ["S", "M", "L"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        },
+        {
+          "color": "Green",
+          "sizes": ["S", "M", "L"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Kids' Wool Sweater",
+      "description": "Cozy wool sweater for kids, perfect for chilly weather. Soft, warm, and comfortable for everyday wear.",
+      "rate": 4.6,
+      "creation_date": "2023-07-25",
+      "subcategory_id": 9,
+      "variants": [
+        {
+          "color": "Grey",
+          "sizes": ["S", "M", "L"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+
+        },
+        {
+          "color": "Blue",
+          "sizes": ["S", "M", "L"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+        }
+      ]
+    }
+]
