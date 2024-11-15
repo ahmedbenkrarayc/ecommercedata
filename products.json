@@ -10,12 +10,14 @@
         {
           "color": "Black",
           "sizes": ["S", "M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 50
         },
         {
           "color": "White",
           "sizes": ["S", "M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 50
         }
       ]
     },
@@ -30,12 +32,14 @@
         {
           "color": "Navy Blue",
           "sizes": ["M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 60
         },
         {
           "color": "Olive Green",
           "sizes": ["M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 60
         }
       ]
     },
@@ -50,12 +54,14 @@
         {
           "color": "Dark Blue",
           "sizes": ["30", "32", "34", "36"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 80
         },
         {
           "color": "Light Blue",
           "sizes": ["30", "32", "34", "36"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 80
         }
       ]
     },
@@ -70,12 +76,14 @@
         {
           "color": "Red Floral",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 19
         },
         {
           "color": "Blue Floral",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 44
         }
       ]
     },
@@ -90,12 +98,14 @@
         {
           "color": "Pink",
           "sizes": ["S", "M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 66
         },
         {
           "color": "White",
           "sizes": ["S", "M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 68
         }
       ]
     },
@@ -110,12 +120,14 @@
         {
           "color": "Black",
           "sizes": ["S", "M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 93
         },
         {
           "color": "Navy",
           "sizes": ["S", "M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 93
         }
       ]
     },
@@ -130,12 +142,14 @@
         {
           "color": "Blue",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 54
         },
         {
           "color": "Yellow",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 50
         }
       ]
     },
@@ -150,12 +164,14 @@
         {
           "color": "Red",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 70
         },
         {
           "color": "Green",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 70
         }
       ]
     },
@@ -170,13 +186,14 @@
         {
           "color": "Grey",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
-
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 50
         },
         {
           "color": "Blue",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"]
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "price": 50
         }
       ]
     }
