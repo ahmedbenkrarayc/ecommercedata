@@ -1,14 +1,182 @@
 [
-    {
+  {
       "id": 1,
-      "name": "Men"
-    },
-    {
+      "name": "T-Shirts",
+      "category_id": 1
+  },
+  {
       "id": 2,
-      "name": "Women"
-    },
-    {
+      "name": "Jackets",
+      "category_id": 1
+  },
+  {
       "id": 3,
-      "name": "Kids"
-    }
+      "name": "Jeans",
+      "category_id": 1
+  },
+  {
+      "id": 4,
+      "name": "Suits",
+      "category_id": 1
+  },
+  {
+      "id": 5,
+      "name": "Hoodies",
+      "category_id": 1
+  },
+  {
+      "id": 6,
+      "name": "Shorts",
+      "category_id": 1
+  },
+  {
+      "id": 7,
+      "name": "Polo Shirts",
+      "category_id": 1
+  },
+  {
+      "id": 8,
+      "name": "Sweaters",
+      "category_id": 1
+  },
+  {
+      "id": 9,
+      "name": "Pants",
+      "category_id": 1
+  },
+  {
+      "id": 10,
+      "name": "Activewear",
+      "category_id": 1
+  },
+  {
+      "id": 11,
+      "name": "Swimwear",
+      "category_id": 1
+  },
+  {
+      "id": 12,
+      "name": "Underwear",
+      "category_id": 1
+  },
+  {
+      "id": 13,
+      "name": "Dresses",
+      "category_id": 2
+  },
+  {
+      "id": 14,
+      "name": "Tops",
+      "category_id": 2
+  },
+  {
+      "id": 15,
+      "name": "Skirts",
+      "category_id": 2
+  },
+  {
+      "id": 16,
+      "name": "Blouses",
+      "category_id": 2
+  },
+  {
+      "id": 17,
+      "name": "Pants",
+      "category_id": 2
+  },
+  {
+      "id": 18,
+      "name": "Jeans",
+      "category_id": 2
+  },
+  {
+      "id": 19,
+      "name": "Jackets",
+      "category_id": 2
+  },
+  {
+      "id": 20,
+      "name": "Sweaters",
+      "category_id": 2
+  },
+  {
+      "id": 21,
+      "name": "Activewear",
+      "category_id": 2
+  },
+  {
+      "id": 22,
+      "name": "Swimwear",
+      "category_id": 2
+  },
+  {
+      "id": 23,
+      "name": "Lingerie",
+      "category_id": 2
+  },
+  {
+      "id": 24,
+      "name": "Jumpsuits",
+      "category_id": 2
+  },
+  {
+      "id": 25,
+      "name": "T-Shirts",
+      "category_id": 3
+  },
+  {
+      "id": 26,
+      "name": "Shorts",
+      "category_id": 3
+  },
+  {
+      "id": 27,
+      "name": "Sweaters",
+      "category_id": 3
+  },
+  {
+      "id": 28,
+      "name": "Pants",
+      "category_id": 3
+  },
+  {
+      "id": 29,
+      "name": "Dresses",
+      "category_id": 3
+  },
+  {
+      "id": 30,
+      "name": "Jackets",
+      "category_id": 3
+  },
+  {
+      "id": 31,
+      "name": "Pajamas",
+      "category_id": 3
+  },
+  {
+      "id": 32,
+      "name": "School Uniforms",
+      "category_id": 3
+  },
+  {
+      "id": 33,
+      "name": "Swimwear",
+      "category_id": 3
+  },
+  {
+      "id": 34,
+      "name": "Activewear",
+      "category_id": 3
+  },
+  {
+      "id": 35,
+      "name": "Onesies",
+      "category_id": 3
+  },
+  {
+      "id": 36,
+      "name": "Underwear",
+      "category_id": 3
+  }
 ]
