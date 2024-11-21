@@ -10,35 +10,35 @@
         {
           "color": "Black",
           "sizes": ["S", "M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/men-tshirt-black1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-tshirt-black2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-tshirt-black3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-tshirt-black4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-tshirt-black5.webp"],
           "price": 50
         },
         {
           "color": "White",
           "sizes": ["S", "M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/men-tshirt1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-tshirt2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-tshirt3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-tshirt4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-tshirt5.webp"],
           "price": 50
         }
       ]
     },
     {
       "id": 102,
-      "title": "Men's Waterproof Jacket",
+      "title": "EMRG Teddy Jacket",
       "description": "A durable men's jacket that offers waterproof protection. Ideal for rainy days and outdoor activities.",
       "rate": 4.8,
       "creation_date": "2023-09-01",
       "subcategory_id": 2,
       "variants": [
         {
-          "color": "Navy Blue",
+          "color": "Sky Blue",
           "sizes": ["M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/teddy-blue1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/teddy-blue2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/teddy-blue3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/teddy-blue4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/teddy-blue5.webp"],
           "price": 60
         },
         {
           "color": "Olive Green",
           "sizes": ["M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/teddy-kaki1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/teddy-kaki2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/teddy-kaki3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/teddy-kaki4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/teddy-kaki5.webp"],
           "price": 60
         }
       ]
@@ -52,15 +52,15 @@
       "subcategory_id": 3,
       "variants": [
         {
-          "color": "Dark Blue",
+          "color": "Black",
           "sizes": ["30", "32", "34", "36"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/men-jeans-black1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-jeans-black2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-jeans-black3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-jeans-black4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-jeans-black5.webp"],
           "price": 80
         },
         {
-          "color": "Light Blue",
+          "color": "Dark Gray",
           "sizes": ["30", "32", "34", "36"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/men-jeans-gray1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-jeans-gray2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-jeans-gray3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-jeans-gray4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/men-jeans-gray5.webp"],
           "price": 80
         }
       ]
@@ -74,15 +74,15 @@
       "subcategory_id": 4,
       "variants": [
         {
-          "color": "Red Floral",
+          "color": "Nude",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/floral-dress-nude1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/floral-dress-nude2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/floral-dress-nude3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/floral-dress-nude4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/floral-dress-nude5.webp"],
           "price": 19
         },
         {
-          "color": "Blue Floral",
+          "color": "Fit Green",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/floral-dress-green1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/floral-dress-green2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/floral-dress-green3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/floral-dress-green4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/floral-dress-green5.webp"],
           "price": 44
         }
       ]
@@ -98,13 +98,13 @@
         {
           "color": "Pink",
           "sizes": ["S", "M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/casualtop-purple1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/casualtop-purple2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/casualtop-purple3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/casualtop-purple4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/casualtop-purple5.webp"],
           "price": 66
         },
         {
           "color": "White",
           "sizes": ["S", "M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/casualtop-yellow1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/casualtop-yellow2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/casualtop-yellow3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/casualtop-yellow4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/casualtop-yellow5.webp"],
           "price": 68
         }
       ]
@@ -118,15 +118,15 @@
       "subcategory_id": 6,
       "variants": [
         {
-          "color": "Black",
+          "color": "Green",
           "sizes": ["S", "M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/lineskirt-green1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/lineskirt-green2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/lineskirt-green3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/lineskirt-green4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/lineskirt-green5.webp"],
           "price": 93
         },
         {
-          "color": "Navy",
+          "color": "Nude",
           "sizes": ["S", "M", "L", "XL"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/lineskirt-nude1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/lineskirt-nude2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/lineskirt-nude3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/lineskirt-nude4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/lineskirt-nude5.webp"],
           "price": 93
         }
       ]
@@ -140,15 +140,15 @@
       "subcategory_id": 7,
       "variants": [
         {
-          "color": "Blue",
+          "color": "White",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-tshirt-white1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-tshirt-white2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-tshirt-white3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-tshirt-white4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-tshirt-white5.webp"],
           "price": 54
         },
         {
           "color": "Yellow",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-tshirt-pink1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-tshirt-pink2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-tshirt-pink3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-tshirt-pink4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-tshirt-pink5.webp"],
           "price": 50
         }
       ]
@@ -162,15 +162,15 @@
       "subcategory_id": 8,
       "variants": [
         {
-          "color": "Red",
+          "color": "Green",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-shorts-green1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-shorts-green2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-shorts-green3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-shorts-green4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-shorts-green5.webp"],
           "price": 70
         },
         {
-          "color": "Green",
+          "color": "Blue",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-shorts-blue1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-shorts-blue2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-shorts-blue3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-shorts-blue4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-shorts-blue5.webp"],
           "price": 70
         }
       ]
@@ -184,15 +184,15 @@
       "subcategory_id": 9,
       "variants": [
         {
-          "color": "Grey",
+          "color": "Purple",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-sweater-purple1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-sweater-purple2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-sweater-purple3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-sweater-purple4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-sweater-purple5.webp"],
           "price": 50
         },
         {
-          "color": "Blue",
+          "color": "Nude",
           "sizes": ["S", "M", "L"],
-          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/product.webp"],
+          "images": ["https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-sweater-nude1.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-sweater-nude2.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-sweater-nude3.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-sweater-nude4.webp", "https://ahmedbenkrarayc.github.io/ecommercedata/images/kids-sweater-nude5.webp"],
           "price": 50
         }
       ]
